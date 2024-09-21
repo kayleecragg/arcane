@@ -1,6 +1,6 @@
 # Arcane Season 2 Countdown
-<img src="images/face.jpg" width="80%">
-<img src="images/moving.gif" width="65%">
+<img src="images/face.jpg">
+<img src="images/moving.gif">
 
 - <a href="https://kayleecragg.github.io/arcane/" target="_blank">https://kayleecragg.github.io/arcane/</a>
 - Countdown website to the 3 different acts of Arcane Season 2.
