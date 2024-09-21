@@ -9,7 +9,7 @@ body, html {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.65); /* Allows transparency */
     font-family: 'Manuka', Arial, sans-serif; /* Use Manuka as the font */
-    color: #f0eae2; /* Eggshell color */
+    color: #f2f2f2;
     font-size: 25px; /* Increased base font size */
     letter-spacing: 0.039em; /* Slightly wider letter spacing */
     overflow-x: hidden; /* Prevent horizontal scrollbars */
@@ -68,19 +68,19 @@ body, html {
 }
 
 #Act1 {
-    color: #f0eae2; /* Eggshell color */
+    color: #f2f2f2; /* Eggshell color */
     font-size: 2.5em;
     text-align: center; /* Center the text if needed */
 }
 
 #Act2 {
-    color: #f0eae2; /* Eggshell color */
+    color: #f2f2f2; /* Eggshell color */
     font-size: 2.5em;
     text-align: center; /* Center the text if needed */
 }
 
 #Act3 {
-    color: #f0eae2; /* Eggshell color */
+    color: #f2f2f2; /* Eggshell color */
     font-size: 2.5em;
     text-align: center; /* Center the text if needed */
 }
@@ -103,7 +103,7 @@ body, html {
     max-width: 250px;
     height: auto;
     text-align: center;
-    color: #f0eae2; /* Eggshell color */
+    color: #f2f2f2; /* Eggshell color */
 }
 
 
